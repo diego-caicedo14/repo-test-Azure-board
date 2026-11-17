@@ -16,3 +16,4 @@ con excepciones por patrón (fnmatch). Solo se pueden crear ramas que coincidan 
 
 Es menos estricto que la regex de BUS-BackOffice (no valida dígitos ni largo del folio/CHG), pero alcanza para la prueba.
 En una org con GitHub Enterprise se usa la regex de `BO_Pipelines/utils/regex-rules.json → branch-nomenclatures`.
+test
