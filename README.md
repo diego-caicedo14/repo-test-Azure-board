@@ -16,4 +16,4 @@ con excepciones por patrón (fnmatch). Solo se pueden crear ramas que coincidan 
 
 Es menos estricto que una regex (no valida dígitos ni largo del folio/CHG), pero alcanza para la prueba.
 En una org con GitHub Enterprise se puede usar una regla `branch_name_pattern` con regex.
-test
+test2
